@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Yes or No</string>
+    <string name="hello_world">Welcome Yes or No!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_screen_yes_no">ScreenYesNo</string>
+
+</resources>
